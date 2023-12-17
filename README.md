@@ -4,14 +4,16 @@
 
 ## Top languages
 
-![Ruby](https://img.shields.io/badge/ruby-%23FFFF.svg?style=flat-square&logo=ruby&logoColor=red)
+![Ruby](https://img.shields.io/badge/ruby-%23ffff.svg?style=flat-square&logo=ruby&logoColor=red)
 ![Crystal](https://img.shields.io/badge/crystal-%23f7f7f7.svg?style=flat-square&logo=crystal&logoColor=black)
 ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/typescript-%232f74c0.svg?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23ffff.svg?style=flat-square)
 
 ## DevOps
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23316ce6.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23FFFF.svg?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-%23ffff.svg?style=flat-square&logo=docker)
+![Podman](https://img.shields.io/badge/Podman-%23892ca0.svg?style=flat-square&logo=podman)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23232323.svg?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -20,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/linux-%23FFFF.svg?style=flat-square&logo=linux&logoColor=black)
 
 ## CI/CD
-![GithubActions](https://img.shields.io/badge/GithubActions-%23FFFF.svg?style=flat-square&logo=github&logoColor=black)
+![GithubActions](https://img.shields.io/badge/GithubActions-%23ffff.svg?style=flat-square&logo=github&logoColor=black)
 ![SemaphoreCI](https://img.shields.io/badge/SemaphoreCI-%23FFFF.svg?style=flat-square&logo=semaphoreci)
 
 ## Frontend
